@@ -1,17 +1,6 @@
-# xy
+# Ink Link
 
-A new Flutter project.
+InkLink is a dynamic chatting app that elevates communication by integrating a real-time whiteboard. Users can engage in creative conversations, drawing and sharing ideas seamlessly in both split-screen and full-screen modes. It's a unique platform fostering interactive and visual discussions.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# INK-LINK" 
+![alt text style="width:20px; height:40px"](https://github.com/Shivam5162323/INK-LINK/blob/main/assets/images/inklink.png?raw=true)
