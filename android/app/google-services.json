@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000634542070",
+    "project_id": "vend-25de9",
+    "storage_bucket": "vend-25de9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000634542070:android:8a8758a17161a88674c9d7",
+        "android_client_info": {
+          "package_name": "com.example.xy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNIXS8uNtcTvRLtsCsRCxCCWQUa1vijLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
