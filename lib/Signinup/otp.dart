@@ -57,8 +57,8 @@ class _OTPScreenState extends State<OTPScreen> {
 
   Future<String> sendOtpToEmail() async {
     try {
-      String username = 'vendvl.0@gmail.com'; // Your Gmail username
-      String password = 'bteavjdkzosenaen'; // Your Gmail password
+      String username = 'ID'; // Your Gmail username
+      String password = 'PASSS'; // Your Gmail password
 
       final smtpServer = gmail(username, password);
 
